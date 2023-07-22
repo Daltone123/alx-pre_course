@@ -1,1 +1,1 @@
-This is the non empty README.md in 0x01-git directory
+This is the README.md file in 0x01-git
